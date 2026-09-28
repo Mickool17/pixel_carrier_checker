@@ -51,4 +51,4 @@ flutter run
 
 ## Author
 
-**Oladimeji Micheal Tomisin**, GitHub: [@Mickool17](https://github.com/Mickool17)
+Built by [@Mickool17](https://github.com/Mickool17)
